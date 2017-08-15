@@ -1,2 +1,2 @@
 # hello-world
-git test
+这是我第一次用GitHub
